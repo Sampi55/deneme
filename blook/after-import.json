@@ -1,0 +1,8 @@
+{
+  "menus": {
+    "blook-primary-nav": "Primary Menu",
+    "blook-footer-nav": "Footer Menu",
+    "blook-top-nav": "Top Menu"
+  },
+  "home": "Homepage"
+}

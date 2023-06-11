@@ -1,0 +1,79 @@
+{
+  "import_files": [
+    {
+      "import_file_name": "Free",
+      "preview_link": "https://demo.themeinwp.com/newsfort/",
+      "demo_slug": "free-default",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/newsfort/free-default/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine", "Blog"]
+    },
+    {
+      "import_file_name": "Travel",
+      "preview_link": "https://demo.themeinwp.com/newsfort/travel/",
+      "demo_slug": "travel",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/newsfort/travel/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine", "Blog"]
+    },
+    {
+      "import_file_name": "Masonry",
+      "preview_link": "https://demo.themeinwp.com/newsfort/masonry-blog/",
+      "demo_slug": "masonry",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/newsfort/masonry/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine", "Blog"]
+    },
+    {
+      "import_file_name": "Magazine",
+      "preview_link": "https://demo.themeinwp.com/newsfort/magazine/",
+      "demo_slug": "magazine",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/newsfort/magazine/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine", "Blog"]
+    },
+    {
+      "import_file_name": "Fashion",
+      "preview_link": "https://demo.themeinwp.com/newsfort/magazine/",
+      "demo_slug": "fashion",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/newsfort/fashion/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine", "Blog"]
+    },
+    {
+      "import_file_name": "Pro Blog",
+      "preview_link": "https://demo.themeinwp.com/newsfort/blogging/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/newsfort/pro-blog/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine", "Blog"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Pro Magazine",
+      "preview_link": "https://demo.themeinwp.com/newsfort/magazine-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/newsfort/pro-magazine/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine", "Blog"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Pro Travel",
+      "preview_link": "https://demo.themeinwp.com/newsfort/travel-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/newsfort/pro-travel/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine", "Blog"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Pro Minimal",
+      "preview_link": "https://demo.themeinwp.com/newsfort/minimal/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/newsfort/pro-minimal/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine", "Blog"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "magazine": "Magazine", "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/newsfort-pro/"
+}

@@ -1,0 +1,10 @@
+{
+  "menus": {
+    "twp-primary-menu": "Primary Menu",
+    "twp-top-menu": "Top Menu",
+    "twp-secondary-menu": "Secondary Menu",
+    "twp-footer-menu": "Footer Menu",
+    "twp-social-menu": "Social Menu"
+  },
+  "home": "Homepage"
+}
