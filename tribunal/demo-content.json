@@ -1,0 +1,46 @@
+{
+  "import_files": [
+    {
+      "import_file_name": "Default",
+      "preview_link": "https://demo.themeinwp.com/tribunal/travel/",
+      "demo_slug": "default",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/tribunal/default/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine"]
+    },
+    {
+      "import_file_name": "Travel",
+      "preview_link": "https://demo.themeinwp.com/tribunal/travel/",
+      "demo_slug": "travel",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/tribunal/travel/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine"]
+    },
+    {
+      "import_file_name": "Fashion",
+      "preview_link": "https://demo.themeinwp.com/tribunal/fashion/",
+      "demo_slug": "fashion",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/tribunal/fashion/screenshot.png",
+      "primary_category_id": ["free"]
+    },
+    {
+      "import_file_name": "News",
+      "preview_link": "https://demo.themeinwp.com/tribunal/pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/tribunal/news/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Minimal",
+      "preview_link": "https://demo.themeinwp.com/tribunal/minimal-blog/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/tribunal/minimal/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "magazine": "Magazine", "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/tribunal-pro/"
+}

@@ -1,0 +1,9 @@
+{
+  "menus": {
+    "newsfort-primary-menu": "Primary Menu",
+    "newsfort-top-menu": "Top Nav Menu",
+    "newsfort-footer-menu": "Footer Menu",
+    "newsfort-social-menu": "Social Menu"
+  },
+  "home": "Homepage"
+}

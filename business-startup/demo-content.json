@@ -1,0 +1,118 @@
+{
+  "import_files": [
+    {
+      "import_file_name": "Default",
+      "preview_link": "https://demo.themeinwp.com/business-startup/",
+      "demo_slug": "default",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/business-startup/default/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["business", "corporate"]
+    },
+    {
+      "import_file_name": "Landing",
+      "preview_link": "https://demo.themeinwp.com/business-startup/app-landing/",
+      "demo_slug": "landing",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/business-startup/landing/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["business", "landing"]
+    },
+    {
+      "import_file_name": "Corporate",
+      "preview_link": "https://demo.themeinwp.com/business-startup/corporate/",
+      "demo_slug": "corporate",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/business-startup/corporate/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["business", "corporate"]
+    },
+    {
+      "import_file_name": "Medical",
+      "preview_link": "https://demo.themeinwp.com/business-startup/medical/",
+      "demo_slug": "medical",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/business-startup/medical/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["medical", "business"]
+    },
+    {
+      "import_file_name": "Photography",
+      "preview_link": "https://demo.themeinwp.com/business-startup/photography/",
+      "demo_slug": "photography",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/business-startup/photography/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["photography", "business"]
+    },
+    {
+      "import_file_name": "Construction",
+      "preview_link": "https://demo.themeinwp.com/business-startup/construction/",
+      "demo_slug": "construction",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/business-startup/construction/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["business"]
+    },
+    {
+      "import_file_name": "Blog",
+      "preview_link": "https://demo.themeinwp.com/business-startup/clean-blog/",
+      "demo_slug": "blog",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/business-startup/blog/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["blog"]
+    },
+    {
+      "import_file_name": "Default",
+      "preview_link": "https://demo.themeinwp.com/business-startup-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/business-startup/pro-default/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["business", "corporate"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Corporate",
+      "preview_link": "https://demo.themeinwp.com/business-startup-pro/corporate/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/business-startup/corporate/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["business", "corporate"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Construction",
+      "preview_link": "https://demo.themeinwp.com/business-startup-pro/construction/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/business-startup/construction/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["business"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Photography",
+      "preview_link": "https://demo.themeinwp.com/business-startup-pro/photography/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/business-startup/photography/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["photography", "business"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Medical",
+      "preview_link": "https://demo.themeinwp.com/business-startup-pro/medical/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/business-startup/medical/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["medical", "business"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Landing",
+      "preview_link": "https://demo.themeinwp.com/business-startup-pro/app-landing/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/business-startup/landing/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["business", "landing"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": {
+    "blog": "Blog",
+    "landing": "Landing",
+    "medical": "Medical",
+    "business": "Business",
+    "corporate": "Corporate",
+    "photography": "Photography"
+  },
+  "upgrade_pro": "https://www.themeinwp.com/theme/business-startup-pro/"
+}

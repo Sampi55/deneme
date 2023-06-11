@@ -1,0 +1,9 @@
+{
+  "menus": {
+    "primary-MENU": "Primary Menu",
+    "footer-menu": "Footer Menu",
+    "top-menu": "Top Menu",
+    "cosial-menu": "Social Menu"
+  },
+  "home": "Homepage"
+}

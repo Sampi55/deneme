@@ -1,0 +1,31 @@
+{
+  "import_files": [
+    {
+      "import_file_name": "Default",
+      "preview_link": "https://demo.themeinwp.com/telegram/",
+      "demo_slug": "default",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/telegram/default/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine"]
+    },
+    {
+      "import_file_name": "Telegram Pro Main",
+      "preview_link": "https://demo.themeinwp.com/telegram/pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/telegram/telegram-pro-main/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "pro"
+    },
+    {
+      "import_file_name": "Telegram Pro Fashion",
+      "preview_link": "https://demo.themeinwp.com/telegram/pro-fashion/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/telegram/telegram-pro-fashion/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "magazine": "Magazine" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/telegram-pro/"
+}
