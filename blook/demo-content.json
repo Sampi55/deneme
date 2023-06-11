@@ -1,0 +1,39 @@
+{
+  "import_files": [
+    {
+      "import_file_name": "Free",
+      "preview_link": "https://demo.themeinwp.com/blook/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/blook/free/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine", "blog"]
+    },
+    {
+      "import_file_name": "Minimal",
+      "preview_link": "https://demo.themeinwp.com/blook/minimal-light-weight-free-wp-theme/",
+      "demo_slug": "minimal",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/blook/minimal/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine", "blog"]
+    },
+    {
+      "import_file_name": "Magazine",
+      "preview_link": "https://demo.themeinwp.com/blook/lightweight-wp-fashion-magazine/",
+      "demo_slug": "magazine",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/blook/magazine/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine", "blog"]
+    },
+    {
+      "import_file_name": "News",
+      "preview_link": "https://demo.themeinwp.com/blook/pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/blook/pro/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine", "blog"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "magazine": "Magazine", "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/blook-pro/"
+}

@@ -1,0 +1,40 @@
+{
+  "import_files": [
+    {
+      "import_file_name": "Free Default",
+      "preview_link": "https://demo.themeinwp.com/mate/",
+      "demo_slug": "free-default",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/mate/free-default/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine", "blog"]
+    },
+    {
+      "import_file_name": "Travel",
+      "preview_link": "https://demo.themeinwp.com/mate/travel/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/mate/travel/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine", "travel", "blog"]
+    },
+    {
+      "import_file_name": "Magazine",
+      "preview_link": "https://demo.themeinwp.com/mate/magazine/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/mate/magazine/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine", "blog"]
+    },
+    {
+      "import_file_name": "Pro Default",
+      "preview_link": "https://demo.themeinwp.com/mate/pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/mate/pro-default/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine", "blog"]
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": {
+    "magazine": "Magazine",
+    "blog": "Blog",
+    "travel": "Travel"
+  },
+  "upgrade_pro": "https://www.themeinwp.com/theme/mate-pro/"
+}

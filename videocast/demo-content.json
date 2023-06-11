@@ -1,0 +1,23 @@
+{
+  "import_files": [
+    {
+      "import_file_name": "Videocast Free",
+      "preview_link": "https://live-preview.themeinwp.com/videocast/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/videocast/free/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["video"]
+    },
+    {
+      "import_file_name": "Videocast Pro",
+      "preview_link": "https://live-preview.themeinwp.com/videocast-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/videocast/pro/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["video"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "video": "Video", "blog": "Blog" },
+  "upgrade_pro": "https://live-preview.themeinwp.com/videocast-pro/"
+}

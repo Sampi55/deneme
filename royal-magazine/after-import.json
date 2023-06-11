@@ -1,0 +1,9 @@
+{
+  "menus": {
+    "primary": "All Page",
+    "footer": "All Pages Flat",
+    "social": "Social Navigation"
+  },
+  "home": "Homepage",
+  "blog": "Blog"
+}
